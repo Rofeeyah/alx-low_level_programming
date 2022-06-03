@@ -4,7 +4,7 @@
 * main- Entry point for the C code
 *
 * Description: prints "program.."
-* 
+*
 * Return: Always 0 to indicate (success)
 */
 int main(void)
