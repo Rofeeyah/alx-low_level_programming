@@ -1,7 +1,6 @@
 #include <stdio.h>
 
 /**
-*
 * main - Entry point for the C code
 *
 * Description: prints "program.."
