@@ -1,17 +1,17 @@
 #include <stdio.h>
+
 /**
- *
- *  * Description: main - Prints out a string to stdout.
- *
- *   * Return: 0 if success.
- *
- *    */
+* main- Entry point for the C code
+*
+* Description: prints "program.."
+* 
+* Return: Always 0 to indicate (success)
+*/
 int main(void)
 
 {
 
 	puts("\"Programming is like building a multilingual puzzle");
-
 	return (0);
 
 }
