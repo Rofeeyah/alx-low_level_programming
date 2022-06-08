@@ -1,5 +1,4 @@
-#include <stdio.h>
-#include "_putchar"
+#include "_putchar.h"
 
 /**
 * main- Entry point for the code C
